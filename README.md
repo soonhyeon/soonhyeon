@@ -1,5 +1,5 @@
 ### Hi there 👋
-### I'm interested in Multimodal in deep learning field 
+### I'm interested in multimodal in deep learning field 
 
 <!--
 **soonhyeon/soonhyeon** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
