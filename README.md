@@ -1,4 +1,4 @@
-### Hi, I'm Soonhyeon Choi 
+### AI developer
 
 <!--
 **soonhyeon/soonhyeon** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
